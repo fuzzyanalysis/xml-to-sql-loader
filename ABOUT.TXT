@@ -1,0 +1,7 @@
+XML-to-SQL-Loader
+
+Written by Shannon Frick
+GPL
+
+
+This is a tool that was specifically designed for reading in .xml files from the GCIDE project and putting them into a database.
