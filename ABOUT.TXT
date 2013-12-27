@@ -4,4 +4,9 @@ Written by Shannon Frick
 GPL
 
 
-This is a tool that was specifically designed for reading in .xml files from the GCIDE project and putting them into a database.
+This is a tool that was specifically designed for reading in .xml files 
+from the GCIDE project and putting them into a database.
+
+It is proposed that this tool will eventually allow multiple database types to 
+read in the ENglish words (and hopefully other languages) to create data sources 
+that be used for text mining purposes and other text lookup functions.
