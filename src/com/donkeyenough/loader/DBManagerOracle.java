@@ -20,8 +20,8 @@ public class DBManagerOracle {
 	private Connection connection;
 	private String DB_CONNECTION_STRING = "jdbc:oracle:thin:@chen-pc:1521:xe";
 	private String DRIVER_CLASS_NAME = "oracle.jdbc.driver.OracleDriver";
-	private String DB_USER_NAME = "shandb";
-	private String DB_PASSWORD = "sh4n0racle";
+	private String DB_USER_NAME = "*****";
+	private String DB_PASSWORD = "*****";
 	private String resultString = null;
 	private boolean connected = false;
 	
